@@ -17,11 +17,3 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/halo', function () {
-    return view('welcome');
-});
-
-Route::get('/coba', function () {
-    return 'cobalagi';
-});
-
