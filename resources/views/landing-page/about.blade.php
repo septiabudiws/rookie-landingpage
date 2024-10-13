@@ -3,10 +3,10 @@
 
     <main class=" px-10 w-full h-auto sm:w-4/5 sm:px-2 mx-auto">
       
-      <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-end pb-6 sm:pt-32 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(../foto/placeholder\ foto.jpg);">
+      <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-end pb-6 sm:pt-32 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(../foto/profil_rookie.jpg);">
         <div class="px-7 md:px-8">
-            <h1 class="text-lg sm:text-2xl font-bold">About Turbo Rookie</h1>
-            <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5">Turbo Rookie is one of the teams within the Turbo community, dedicated to empowering aspiring web developers through collaboration, learning, and real-world experience.<span class="hidden sm:inline"> We believe that by sharing knowledge and working together, we can enhance our skills and create innovative solutions that make a difference. Join us as we embark on a journey of growth, creativity, and endless possibilities in the world of web development.</span></p>
+            <h1 class="text-lg sm:text-2xl font-bold text-slate-50">About Turbo Rookie</h1>
+            <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5 text-slate-50">Turbo Rookie is one of the teams within the Turbo community, dedicated to empowering aspiring web developers through collaboration, learning, and real-world experience.<span class="hidden sm:inline"> We believe that by sharing knowledge and working together, we can enhance our skills and create innovative solutions that make a difference. Join us as we embark on a journey of growth, creativity, and endless possibilities in the world of web development.</span></p>
             <form action="" method="">
                 <div class="flex items-center bg-white w-fit sm:py-[6px] sm:px-4 py-1 px-3 sm:rounded-xl rounded-lg">
                     <input type="email" name="email" placeholder="Enter your email address" class="placeholder:text-sm placeholder:text-left pl-1 bg-transparent outline-none " required>
@@ -98,7 +98,42 @@
             </div>
           <a>
         </div>
-
+        <div class="flex  justify-center flex-wrap">
+          <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+            <div class="rounded-full mr-2 overflow-hidden">
+              <img src="../foto/user.png" alt="" class="w-28">
+            </div>
+            <div>
+              <h3 class="font-semibold text-sm sm:text-base">Muqtafi</h3>
+              <h3 class="font-light text-xs">Member</h3>
+              <p class="font-thin text-xs sm:text-sm">We believe in working smart by utilizing time and resources optimally to achieve the best results with efficient effort.</p>
+            </div>
+          <a>
+        </div>
+      </div>
+      <div class="flex  justify-center flex-wrap">
+        <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+          <div class="rounded-full mr-2 overflow-hidden">
+            <img src="../foto/user.png" alt="" class="w-28">
+          </div>
+          <div>
+            <h3 class="font-semibold text-sm sm:text-base">Irma</h3>
+            <h3 class="font-light text-xs">Member</h3>
+            <p class="font-thin text-xs sm:text-sm">We believe in working smart by utilizing time and resources optimally to achieve the best results with efficient effort.</p>
+          </div>
+        <a>
+      </div>
+      <div class="flex  justify-center flex-wrap">
+        <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+          <div class="rounded-full mr-2 overflow-hidden">
+            <img src="../foto/user.png" alt="" class="w-28">
+          </div>
+          <div>
+            <h3 class="font-semibold text-sm sm:text-base">Rizal</h3>
+            <h3 class="font-light text-xs">Member</h3>
+            <p class="font-thin text-xs sm:text-sm">Be yourself and never surrender.</p>
+          </div>
+        <a>
       </div>
 
     </main>

@@ -4,10 +4,10 @@
         <!-- main content -->
         <main class=" px-10 w-full h-auto sm:w-4/5 sm:px-2 mx-auto">
       
-            <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-center pt-14 sm:pt-20 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(../foto/placeholder\ foto.jpg);">
+            <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-center pt-14 sm:pt-20 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(../foto/profil_rookie.jpg);">
               <div class="px-7 md:px-8 text-center">
-                <h1 class="text-xl sm:text-2xl font-bold">Empower Your Web Development Journey with Turbo Rookie</h1>
-                <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5">Join our community of passionate developers, learning and mastering the latest web technologies. Together, we innovate, share knowledge, and build the future of web development.</p>
+                <h1 class="text-xl sm:text-2xl font-bold text-slate-50 ">Empower Your Web Development Journey with Turbo Rookie</h1>
+                <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5 text-slate-50">Join our community of passionate developers, learning and mastering the latest web technologies. Together, we innovate, share knowledge, and build the future of web development.</p>
                 <a href="" class="py-2 px-3 bg-blue-500 rounded-full text-sm shadow-md font-medium text-slate-50 hover:bg-blue-300 hover:text-slate-600 cursor-pointer transition-all">Contact Us</a>
               </div>
             </header>

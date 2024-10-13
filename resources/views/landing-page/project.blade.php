@@ -3,10 +3,10 @@
 
     <!-- main content -->
     <main class=" px-10 w-full h-auto sm:w-4/5 sm:px-2 mx-auto">
-        <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-end pb-6 sm:pt-32 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(foto/placeholder\ foto.jpg);">
+        <header class="w-full sm:h-[470px] h-72 rounded-2xl overflow-hidden flex items-end pb-6 sm:pt-32 mb-6 text-slate-700 bg-cover bg-center bg-no-repeat" style="background-image: url(foto/profil_rookie.jpg);">
             <div class="px-7 md:px-8">
-                <h1 class="text-lg sm:text-2xl font-bold">Transforming Ideas into Reality</h1>
-                <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5">At Turbo Rookie, we empower our community to turn innovative ideas into impactful web projects. Explore our portfolio of successful collaborations, showcasing the creativity and expertise of our members in the ever-evolving digital landscape.</p>
+                <h1 class="text-lg sm:text-2xl font-bold text-slate-50">Transforming Ideas into Reality</h1>
+                <p class="text-xs sm:text-sm font-thin mb-3 sm:mb-5 text-slate-50">At Turbo Rookie, we empower our community to turn innovative ideas into impactful web projects. Explore our portfolio of successful collaborations, showcasing the creativity and expertise of our members in the ever-evolving digital landscape.</p>
                 <form action="" method="">
                     <div class="flex items-center bg-white w-fit sm:py-[6px] sm:px-4 py-1 px-3 sm:rounded-xl rounded-lg">
                         <input type="email" name="email" placeholder="Discover our projects" class="placeholder:text-sm placeholder:text-left pl-1 bg-transparent outline-none " required>
