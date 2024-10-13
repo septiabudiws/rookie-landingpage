@@ -28,7 +28,7 @@
          <nav class="mt-4">
             <ul class="flex space-x-4 border-b">
                 <!-- Link to "All" page -->
-                <li class="py-2 border-b-2 border-black"><a href="/blog">All</a></li>
+                <li class="py-2"><a href="/blog">All</a></li>
         
                 <!-- Link to "Tutorials" page -->
                 <li class="py-2"><a href="/blog-tutorials">Tutorials</a></li>
@@ -43,7 +43,7 @@
                 <li class="py-2"><a href="/blog-news">News</a></li>
         
                 <!-- Link to "Events" page -->
-                <li class="py-2"><a href="/blog-events">Events</a></li>
+                <li class="py-2 border-b-2 border-black"><a href="/blog-events">Events</a></li>
              </ul>
            </nav>
          <section class="mt-6 space-y-6">

@@ -28,10 +28,10 @@
          <nav class="mt-4">
             <ul class="flex space-x-4 border-b">
                 <!-- Link to "All" page -->
-                <li class="py-2 border-b-2 border-black"><a href="/blog">All</a></li>
+                <li class="py-2"><a href="/blog">All</a></li>
         
                 <!-- Link to "Tutorials" page -->
-                <li class="py-2"><a href="/blog-tutorials">Tutorials</a></li>
+                <li class="py-2 border-b-2 border-black"><a href="/blog-tutorials">Tutorials</a></li>
         
                 <!-- Link to "Community Spotlights" page -->
                 <li class="py-2"><a href="/blog-community">Community Spotlights</a></li>
