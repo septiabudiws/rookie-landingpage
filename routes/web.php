@@ -19,4 +19,3 @@ Route::view('/about', 'landing-page.about');
 Route::view('/contact', 'landing-page.contact');
 Route::view('/blog', 'landing-page.blog');
 Route::view('/dashboard', 'dashboard.index');
-Route::view('/detail', 'landing-page.detail');
