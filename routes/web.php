@@ -16,3 +16,4 @@ Route::view('/', 'landing-page.home');
 Route::view('/project', 'landing-page.project');
 Route::view('/about', 'landing-page.about');
 Route::view('/contact', 'landing-page.contact');
+Route::view('/blog', 'landing-page.blog');
