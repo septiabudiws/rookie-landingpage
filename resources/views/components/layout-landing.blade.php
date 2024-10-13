@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Turbo Rookie | {{ $title }}</title>
-    <link rel="stylesheet" href="css/style.css">
+    {{-- <link rel="stylesheet" href="css/style.css"> --}}
+    @vite('resources/css/app.css')
   </head>
   <body>
 
@@ -25,7 +26,7 @@
           <a href="/contact">Contact</a>
         </li>
         <li class="px-3 font-medium hover:text-slate-400 transition-all">
-          <a href="/blog">Blog</a>
+          <a href="/blog" target="_blank">Blog</a>
         </li>
       </ul>
         <div class="flex sm:hidden">

@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout-landing>
     <x-slot:title>Blog</x-slot:title>
     
     <!-- main content -->
@@ -28,10 +28,10 @@
          <nav class="mt-4">
             <ul class="flex space-x-4 border-b">
                 <!-- Link to "All" page -->
-                <li class="py-2 border-b-2 border-black"><a href="#">All</a></li>
+                <li class="py-2 border-b-2 border-black"><a href="/blog">All</a></li>
         
                 <!-- Link to "Tutorials" page -->
-                <li class="py-2"><a href="/blog">Tutorials</a></li>
+                <li class="py-2"><a href="/blog-tutorials">Tutorials</a></li>
         
                 <!-- Link to "Community Spotlights" page -->
                 <li class="py-2"><a href="/blog-community">Community Spotlights</a></li>
@@ -49,7 +49,7 @@
          <section class="mt-6 space-y-6">
           <article class="bg-white p-4 rounded-lg shadow">
            <div class="flex space-x-4">
-            <img alt="Illustration of a person celebrating" class="w-36 h-24 object-cover rounded-lg" height="100" src="../foto/d.png" width="150"/>
+            <img alt="Illustration of a person celebrating" class="w-36 h-24 object-cover rounded-lg" height="100" src="{{ asset('foto/a.jpg') }}" width="150"/>
             <div>
              <h2 class="text-lg font-semibold">
               Announcement
@@ -70,7 +70,7 @@
           </article>
           <article class="bg-white p-4 rounded-lg shadow">
            <div class="flex space-x-4">
-            <img alt="Notebook and pen on a desk" class="w-36 h-24 object-cover rounded-lg" height="100" src="../foto/b.png" width="150"/>
+            <img alt="Notebook and pen on a desk" class="w-36 h-24 object-cover rounded-lg" height="100" src="{{ asset('foto/b.jpg') }}" width="150"/>
             <div>
              <h2 class="text-lg font-semibold">
               Tutorial
@@ -91,7 +91,7 @@
           </article>
           <article class="bg-white p-4 rounded-lg shadow">
            <div class="flex space-x-4">
-            <img alt="Team of people working together" class="w-36 h-24 object-cover rounded-lg" height="100" src="../foto/a.png" width="150"/>
+            <img alt="Team of people working together" class="w-36 h-24 object-cover rounded-lg" height="100" src="{{ asset('foto/c.jpg') }}" width="150"/>
             <div>
              <h2 class="text-lg font-semibold">
               Community Spotlight
@@ -112,7 +112,7 @@
           </article>
           <article class="bg-white p-4 rounded-lg shadow">
            <div class="flex space-x-4">
-            <img alt="People working on laptops at a hackathon" class="w-36 h-24 object-cover rounded-lg" height="100" src="../foto/c.png" width="150"/>
+            <img alt="People working on laptops at a hackathon" class="w-36 h-24 object-cover rounded-lg" height="100" src="{{ asset('foto/d.jpg') }}" width="150"/>
             <div>
              <h2 class="text-lg font-semibold">
               Event
@@ -135,4 +135,4 @@
         </main>
     </div>
 
-</x-layout>
+</x-layout-landing>
