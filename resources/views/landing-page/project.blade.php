@@ -21,34 +21,37 @@
             </div>
           </header>
 
-        <div class="text-sm text-slate-700 w-full">
+          <div class="text-sm text-slate-700 w-full">
             <h2 class="font-semibold sm:text-base mt-4">Completed Project</h2>
             <div class="flex  justify-center flex-wrap">
                 <div class="w-full md:w-80 sm:w-60 shadow-lg p-2 sm:p-4 rounded-xl mx-1 my-2 justify-center flex">
                     <figure class="text-sm">
                         <div class="overflow-hidden rounded-lg mb-1">
-                        <img src="foto/project1.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
+                        <img src="../foto/project1.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
                         </div>
-                        <figcaption class="font-medium">Lorem ipsum dolor sit amet.</figcaption>
-                        <p class="text-xs font-light">React, Node.js, MongoDB</p>
+                        <figcaption class="font-medium"><a href="/detail" class="hover:underline transition-all">Lorem ipsum dolor sit amet.</a></figcaption>
+                        <p class="text-xs font-normal">by ahmeid</p>
+                        <p class="text-sm font-light">React, Node.js, MongoDB</p>
                     </figure>
                 </div>
                 <div class="w-full md:w-80 sm:w-60 shadow-lg p-2 sm:p-4 rounded-xl mx-1 my-2 justify-center flex">
                     <figure class="text-sm">
                         <div class="overflow-hidden rounded-lg mb-1">
-                        <img src="foto/project2.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
+                        <img src="../foto/project2.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
                         </div>
-                        <figcaption class="font-medium">Lorem ipsum dolor sit amet.</figcaption>
-                        <p class="text-xs font-light">React, Node.js, MongoDB</p>
+                        <figcaption class="font-medium"><a href="/detail" class="hover:underline transition-all">Lorem ipsum dolor sit amet.</a></figcaption>
+                        <p class="text-xs font-normal">by ahmeid</p>
+                        <p class="text-sm font-light">React, Node.js, MongoDB</p>
                     </figure>
                 </div>
                 <div class="w-full md:w-80 sm:w-60 shadow-lg p-2 sm:p-4 rounded-xl mx-1 my-2 justify-center flex">
                     <figure class="text-sm">
                         <div class="overflow-hidden rounded-lg mb-1">
-                        <img src="foto/project3.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
+                        <img src="../foto/project3.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
                         </div>
-                        <figcaption class="font-medium">Lorem ipsum dolor sit amet.</figcaption>
-                        <p class="text-xs font-light">React, Node.js, MongoDB</p>
+                        <figcaption class="font-medium"><a href="/detail" class="hover:underline transition-all">Lorem ipsum dolor sit amet.</a></figcaption>
+                        <p class="text-xs font-normal">by ahmeid</p>
+                        <p class="text-sm font-light">React, Node.js, MongoDB</p>
                     </figure>
                 </div>
             </div>
@@ -58,19 +61,21 @@
                 <div class="w-full md:w-80 sm:w-60 shadow-lg p-2 sm:p-4 rounded-xl mx-1 my-2 justify-center flex">
                     <figure class="text-sm">
                         <div class="overflow-hidden rounded-lg mb-1">
-                        <img src="foto/project4.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
+                        <img src="../foto/project4.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
                         </div>
-                        <figcaption class="font-medium">Lorem ipsum dolor sit amet.</figcaption>
-                        <p class="text-xs font-light">React, Node.js, MongoDB</p>
+                        <figcaption class="font-medium"><a href="/detail" class="hover:underline transition-all">Lorem ipsum dolor sit amet.</a></figcaption>
+                        <p class="text-xs font-normal">by ahmeid</p>
+                        <p class="text-sm font-light">React, Node.js, MongoDB</p>
                     </figure>
                 </div>
                 <div class="w-full md:w-80 sm:w-60 shadow-lg p-2 sm:p-4 rounded-xl mx-1 my-2 justify-center flex">
                     <figure class="text-sm">
                         <div class="overflow-hidden rounded-lg mb-1">
-                        <img src="foto/project5.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
+                        <img src="../foto/project5.jpg" alt="" class="transition-all hover:scale-[1.2] w-80 sm:w-72">
                         </div>
-                        <figcaption class="font-medium">Lorem ipsum dolor sit amet.</figcaption>
-                        <p class="text-xs font-light">React, Node.js, MongoDB</p>
+                        <figcaption class="font-medium"><a href="/detail" class="hover:underline transition-all">Lorem ipsum dolor sit amet.</a></figcaption>
+                        <p class="text-xs font-normal">by ahmeid</p>
+                        <p class="text-sm font-light">React, Node.js, MongoDB</p>
                     </figure>
                 </div>
             </div>

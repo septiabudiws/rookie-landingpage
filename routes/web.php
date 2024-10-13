@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 Route::view('/', 'landing-page.home');
 Route::view('/project', 'landing-page.project');
+Route::view('/detail', 'landing-page.detailproject');
 Route::view('/about', 'landing-page.about');
 Route::view('/contact', 'landing-page.contact');
 Route::view('/blog', 'landing-page.blog');
