@@ -98,7 +98,42 @@
             </div>
           <a>
         </div>
-
+        <div class="flex  justify-center flex-wrap">
+          <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+            <div class="rounded-full mr-2 overflow-hidden">
+              <img src="../foto/user.png" alt="" class="w-28">
+            </div>
+            <div>
+              <h3 class="font-semibold text-sm sm:text-base">Muqtafi</h3>
+              <h3 class="font-light text-xs">Member</h3>
+              <p class="font-thin text-xs sm:text-sm">We believe in working smart by utilizing time and resources optimally to achieve the best results with efficient effort.</p>
+            </div>
+          <a>
+        </div>
+      </div>
+      <div class="flex  justify-center flex-wrap">
+        <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+          <div class="rounded-full mr-2 overflow-hidden">
+            <img src="../foto/user.png" alt="" class="w-28">
+          </div>
+          <div>
+            <h3 class="font-semibold text-sm sm:text-base">Irma</h3>
+            <h3 class="font-light text-xs">Member</h3>
+            <p class="font-thin text-xs sm:text-sm">We believe in working smart by utilizing time and resources optimally to achieve the best results with efficient effort.</p>
+          </div>
+        <a>
+      </div>
+      <div class="flex  justify-center flex-wrap">
+        <a href="#" class="w-full p-2 sm:p-4 rounded-xl mx-1 my-2 flex items-center hover:shadow-lg transition-all border border-slate-300">
+          <div class="rounded-full mr-2 overflow-hidden">
+            <img src="../foto/user.png" alt="" class="w-28">
+          </div>
+          <div>
+            <h3 class="font-semibold text-sm sm:text-base">Rizal</h3>
+            <h3 class="font-light text-xs">Member</h3>
+            <p class="font-thin text-xs sm:text-sm">Be yourself and never surrender.</p>
+          </div>
+        <a>
       </div>
 
     </main>

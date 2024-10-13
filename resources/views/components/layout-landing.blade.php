@@ -26,7 +26,7 @@
           <a href="/contact">Contact</a>
         </li>
         <li class="px-3 font-medium hover:text-slate-400 transition-all">
-          <a href="/blog" target="_blank">Blog</a>
+          <a href="/blog">Blog</a>
         </li>
       </ul>
         <div class="flex sm:hidden">
