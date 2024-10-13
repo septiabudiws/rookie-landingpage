@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout-landing>
     <x-slot:title>Contact</x-slot:title>
 
     <!-- main content -->
@@ -35,4 +35,4 @@
         </div>
     </main>
     <!-- main content -->
-</x-layout>
+</x-layout-landing>

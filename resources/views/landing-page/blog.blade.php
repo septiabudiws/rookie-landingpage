@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout-landing>
     <x-slot:title>Blog</x-slot:title>
     
     <!-- main content -->
@@ -135,4 +135,4 @@
         </main>
     </div>
 
-</x-layout>
+</x-layout-landing>

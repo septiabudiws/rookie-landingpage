@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout-landing>
     <x-slot:title>Project</x-slot:title>
 
     <!-- main content -->
@@ -79,4 +79,4 @@
     </main>
     <!-- main content -->
      
-</x-layout>
+</x-layout-landing>

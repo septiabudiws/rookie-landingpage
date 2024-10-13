@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout-landing>
     <x-slot:title>About</x-slot:title>
 
     <main class=" px-10 w-full h-auto sm:w-4/5 sm:px-2 mx-auto">
@@ -103,4 +103,4 @@
 
     </main>
     <!-- main content -->
-</x-layout>
+</x-layout-landing>
