@@ -118,7 +118,7 @@
 
           <ul class="menu-inner py-1">
             <!-- Dashboards -->
-            <li class="menu-item active open">
+            <li class="menu-item {{ Request::is('dashboard*', 'member*', 'data_blog*', 'data_project*') ? 'active open' : 'close' }}">
               <a href="javascript:void(0);" class="menu-link menu-toggle">
                 <i class="menu-icon tf-icons bx bx-home-smile"></i>
                 <div class="text-truncate" data-i18n="Dashboards">Dashboards</div>
@@ -155,7 +155,7 @@
 
             
               <!-- Dashboards -->
-              <li class="menu-item">
+              <li class="menu-item {{ Request::is('status_member*', 'status_project*', 'kategori*') ? 'active open' : 'close' }}">
                 <a href="javascript:void(0);" class="menu-link menu-toggle">
                   <i class="menu-icon tf-icons bx bx-home-smile"></i>
                   <div class="text-truncate" data-i18n="Dashboards">Status</div>
