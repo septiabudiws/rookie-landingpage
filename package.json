@@ -8,10 +8,9 @@
         "autoprefixer": "^10.4.20",
         "axios": "^1.1.2",
         "laravel-vite-plugin": "^0.7.2",
-<<<<<<< HEAD
+
         "postcss": "^8.4.47",
-=======
->>>>>>> 34357e3269051492b577df2015cf66e78724e7fa
+
         "tailwindcss": "^3.4.13",
         "vite": "^4.0.0"
     },
