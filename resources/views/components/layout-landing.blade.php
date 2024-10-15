@@ -23,10 +23,10 @@
           <a href="/project">Project</a>
         </li>
         <li class="px-3 font-medium hover:text-slate-400 transition-all">
-          <a href="/contact">Contact</a>
+          <a href="/blog">Blog</a>
         </li>
         <li class="px-3 font-medium hover:text-slate-400 transition-all">
-          <a href="/blog">Blog</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
         <div class="flex sm:hidden">
