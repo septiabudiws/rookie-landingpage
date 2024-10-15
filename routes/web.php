@@ -18,6 +18,8 @@ Route::view('/detail', 'landing-page.detailproject');
 Route::view('/about', 'landing-page.about');
 Route::view('/contact', 'landing-page.contact');
 Route::view('/blog', 'landing-page.blog');
+Route::view('/read', 'landing-page.detailpost');
+
 Route::view('/dashboard', 'dashboard.dashboard');
 Route::view('/member', 'dashboard.member');
 Route::view('/data_project', 'dashboard.data_project');

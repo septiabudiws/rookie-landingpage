@@ -63,7 +63,7 @@
             </div>
            </div>
            <div class="text-right mt-4">
-            <a href="/detail" target="_self">
+            <a href="/read" target="_self">
                 <button class="px-4 py-2 bg-blue-500 text-white rounded-full">
                     Read...
                    </button>
@@ -86,7 +86,7 @@
             </div>
            </div>
            <div class="text-right mt-4">
-            <a href="/detail" target="_self">
+            <a href="/read" target="_self">
                 <button class="px-4 py-2 bg-blue-500 text-white rounded-full">
                     Read...
                    </button>
@@ -109,7 +109,7 @@
             </div>
            </div>
            <div class="text-right mt-4">
-            <a href="/detail" target="_self">
+            <a href="/read" target="_self">
                 <button class="px-4 py-2 bg-blue-500 text-white rounded-full">
                     Read...
                    </button>
@@ -132,7 +132,7 @@
             </div>
            </div>
            <div class="text-right mt-4">
-            <a href="/detail" target="_self">
+            <a href="/read" target="_self">
                 <button class="px-4 py-2 bg-blue-500 text-white rounded-full">
                     Read...
                    </button>
