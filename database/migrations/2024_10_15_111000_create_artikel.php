@@ -16,12 +16,12 @@ return new class extends Migration
             $table->string('judul');
             $table->text('isi');
             $table->unsignedBigInteger('author');
+            $table->string('gambar');
             $table->unsignedBigInteger('komentar');
             $table->unsignedBigInteger('kategori');
-            $table->string('gambar');
+            $table->foreign('author')->references('id')->on('users')->onDelete('cascade');
             $table->foreign('komentar')->references('id')->on('komentar')->onDelete('cascade');
             $table->foreign('kategori')->references('id')->on('kategori')->onDelete('cascade');
-            $table->foreign('author')->references('id')->on('user')->onDelete('cascade');
             $table->timestamps();
         });
     }
