@@ -15,6 +15,6 @@ class Kategori extends Model
     ];
 
     public function artikel(){
-        return $this->belongsTo(Artikel::class);
+        return $this->hasMany(Artikel::class);
     }
 }

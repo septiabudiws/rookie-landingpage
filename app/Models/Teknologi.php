@@ -11,6 +11,11 @@ class Teknologi extends Model
 
     protected $table = 'teknologi';
     protected $fillable = [
-        'teknologi'
+        'teknologi',
+        'projek'
     ];
+
+    public function projek () {
+        return $this->belongsTo(Projek::class);
+    }
 }

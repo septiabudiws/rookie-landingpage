@@ -15,6 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('nama');
             $table->text('isi');
+            $table->unsignedBigInteger('artikel_id');
+            $table->foreign('artikel_id')->references('id')->on('artikel')->onDelete('cascade');
             $table->timestamps();
         });
     }

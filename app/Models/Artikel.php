@@ -19,13 +19,13 @@ class Artikel extends Model
         'kategori',
     ];
 
-    public function komentar(){
-        return $this->hasMany(Komentar::class);
-    }
     public function kategori(){
-        return $this->hasMany(Teknologi::class);
+        return $this->belongsTo(Teknologi::class);
     }
     public function author(){
         return $this->belongsTo(User::class);
+    }
+    public function komentar () {
+        return $this->hasMany(Komentar::class);
     }
 }

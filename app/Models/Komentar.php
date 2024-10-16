@@ -15,7 +15,7 @@ class Komentar extends Model
         'isi'
     ];
 
-    public function artikel(){
+    public function artikel () {
         return $this->belongsTo(Artikel::class);
     }
 }

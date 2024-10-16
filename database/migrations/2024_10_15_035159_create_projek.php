@@ -18,10 +18,8 @@ return new class extends Migration
             $table->text('tujuan');
             $table->string('gambar');
             $table->boolean('status');
-            $table->unsignedBigInteger('author');
-            $table->unsignedBigInteger('teknologi');
-            $table->foreign('author')->references('id')->on('users')->onDelete('cascade');
-            $table->foreign('teknologi')->references('id')->on('teknologi')->onDelete('cascade');
+            $table->unsignedBigInteger('user_id');
+            $table->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
             $table->timestamps();
         });
     }

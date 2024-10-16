@@ -16,10 +16,12 @@ class Projek extends Model
         'tujuan',
         'gambar',
         'status',
-        'author',
-        'teknologi'
+        'author'
     ];
 
+    public function author () {
+        return $this->belongsTo(User::class);
+    }
     public function teknologi () {
         return $this->hasMany(Teknologi::class);
     }

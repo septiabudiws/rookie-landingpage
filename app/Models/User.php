@@ -48,4 +48,8 @@ class User extends Authenticatable
     public function artikel () {
         return $this->hasMany(Artikel::class);
     }
+    
+    public function projek () {
+        return $this->hasMany(Projek::class);
+    }
 }
