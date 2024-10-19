@@ -105,7 +105,7 @@
     </div>
     <!-- menu toggle -->
 
-    {{ $slot }}
+    {{ $slot }} 
 
     <!-- footer -->
      <footer class="w-full text-center text-slate-700  text-xs mt-10 pb-4">
