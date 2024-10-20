@@ -64,18 +64,15 @@
         </div>
         <h5 class="pb-1 mb-5 d-flex align-items-center">
             <i class="menu-icon tf-icons bx bx-calendar"></i>
-            <span>Jadwal hari ini</span>
+            <span>Project</span>
         </h5>
         <div class="row">
             <div class="card text-start">
                 <div class="card-body">
-                    <h5 class="card-title">Alpro</h5>
-                    <p class="card-text">Materi: array dan queue</p>
-                    <div class="text-muted">10:30 - 11:40</div>
+                    <h5 class="card-title">Web Rookie</h5>
+                    <p class="card-text">Web community by Turbo</p>
+                    <div class="text-muted">now-until uts</div>
                 </div>
-                <form action="" class="card-footer">
-                    <button type="submit" class="btn btn-primary">Absen</button>
-                </form>
             </div>
         </div>
     </div>
