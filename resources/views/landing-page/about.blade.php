@@ -131,7 +131,7 @@
           <div>
             <h3 class="font-semibold text-sm sm:text-base">Rizal</h3>
             <h3 class="font-light text-xs">Member</h3>
-            <p class="font-thin text-xs sm:text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae, quis alias? Perspiciatis asperiores recusandae sunt, quasi nihil atque nesciunt natus totam vel sapiente ducimus, ex neque doloribus, ab adipisci iusto.</p>
+            <p class="font-thin text-xs sm:text-sm">We believe in working smart by utilizing time and resources optimally to achieve the best results with efficient effort.</p>
           </div>
         <a>
       </div>
